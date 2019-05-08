@@ -2,7 +2,7 @@
 title: "Inhibition of System Xc(-) Transporter Attenuates Autoimmune Inflammatory Demyelination."
 collection: publications
 permalink: /publication/evonukjimmunol2015
-
+excerpt: ''
 date: 2015-07-15
 venue: 'Journal of Immunology'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/26071560'
