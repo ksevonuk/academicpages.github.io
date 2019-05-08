@@ -3,7 +3,7 @@ title: "Myocardial ischemia/reperfusion impairs neurogenesis and hippocampal-dep
 collection: publications
 permalink: /publication/evonukbrainbehavimmun2017
 excerpt: ''
-date: 2017 Mar
+date: March 2017
 venue: 'Brain, Behavior, and Immunity'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/27600185'
 citation: 'Evonuk KS, Prabhu SD, Young ME, DeSilva TM (2017) Myocardial ischemia/reperfusion impairs neurogenesis and hippocampal-dependent learning and memory. <i>Brain Behav Immun</i> 61:266-273. <a href="https://doi.org/10.1016/j.bbi.2016.09.001" target="_blank">https://doi.org/10.1016/j.bbi.2016.09.001</a>'
