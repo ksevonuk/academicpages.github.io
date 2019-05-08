@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cleveland, OH"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Evonuk%20KS%5BAuthor%5D&cauthor=true&cauthor_uid=26071560"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
   googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kirstenevonuk/"
   orcid            : "https://orcid.org/0000-0002-2750-0289"
   pinterest        :
   soundcloud       :
