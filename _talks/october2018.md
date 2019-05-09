@@ -9,7 +9,7 @@ date: October 11, 2018
 location: "Berlin, Germany"
 ---
 
-My abstract on my postdoctoral work was chosen for oral presentation. <a href="https://onlinelibrary.ectrims-congress.eu/ectrims/2018/ectrims-2018/231968/kirsten.evonuk.selective.reduction.of.ampa.receptors.on.mature.html?f=listing%3D3%2Abrowseby%3D8%2Asortby%3D1%2Amedia%3D1" target="_blank">[Online Program]</a> <a href="https://doi.org/10.1177/1352458518798579" target="_blank">https://doi.org/10.1177/1352458518798579</a>
+I was invited to present my postdoctoral work on the role of oligodendrocyte AMPA-type glutamate receptors in myelin and axon pathology during autoimmune demyelination. <a href="https://onlinelibrary.ectrims-congress.eu/ectrims/2018/ectrims-2018/231968/kirsten.evonuk.selective.reduction.of.ampa.receptors.on.mature.html?f=listing%3D3%2Abrowseby%3D8%2Asortby%3D1%2Amedia%3D1" target="_blank">[Online Program]</a> <a href="https://doi.org/10.1177/1352458518798579" target="_blank">https://doi.org/10.1177/1352458518798579</a>
 
 Abstract:
 
