@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kirsten S. Evonuk"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral fellow studying myelination, autoimmune demyelination, and remyelination in Tara DeSilva's lab at the <a href="https://www.lerner.ccf.org/" target= "_blank">Cleveland Clinic Lerner Research Institute</a>"
   location         : "Cleveland, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
