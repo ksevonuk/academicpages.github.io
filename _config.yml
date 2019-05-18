@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kirsten Scarlett Evonuk"
 title_separator          : "-"
 name                     : &name "Kirsten Scarlett Evonuk"
-description              : &description "personal description"
+description              : &description "Personal website of Kirsten S. Evonuk"
 url                      : https://ksevonuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kirsten S. Evonuk"
   avatar           : "profile.png"
-  bio              : "Postdoctoral fellow at the Cleveland Clinic"
+  bio              : "Postdoctoral fellow at the Cleveland Clinic studying myelination, demyelination, and remyelination"
   location         : "Cleveland, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
