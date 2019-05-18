@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kirsten S. Evonuk"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral fellow studying myelination, autoimmune demyelination, and remyelination at the Cleveland Clinic"
   location         : "Cleveland, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -255,7 +266,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
