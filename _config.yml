@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "Kirsten S. Evonuk"
   avatar           : "profile.png"
-<<<<<<< HEAD
   bio              : "Postdoctoral fellow at the Cleveland Clinic"
-=======
-  bio              : "Postdoctoral fellow studying myelination, autoimmune demyelination, and remyelination in Tara DeSilva's lab at the <a href="https://www.lerner.ccf.org/" target= "_blank">Cleveland Clinic Lerner Research Institute</a>"
->>>>>>> 10dcf72a265cc4530226f74e7b57fe54e6e6c8e1
   location         : "Cleveland, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
