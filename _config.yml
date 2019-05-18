@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Kirsten S. Evonuk"
   avatar           : "profile.png"
+<<<<<<< HEAD
   bio              : "Postdoctoral fellow studying myelination, autoimmune demyelination, and remyelination at the Cleveland Clinic"
+>>>>>>> 10dcf72a265cc4530226f74e7b57fe54e6e6c8e1
   location         : "Cleveland, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/sites/myncbi/1Do6jiYCDahAfq/collections/58427399/public/"
