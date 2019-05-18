@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "About postdoctoral fellow Kirsten Scarlett Evonuk"
 author_profile: true
 redirect_from: 
   - /about/
