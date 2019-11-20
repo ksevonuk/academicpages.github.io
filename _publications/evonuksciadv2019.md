@@ -1,0 +1,11 @@
+---
+title: "Reduction of AMPA receptor activity on mature oligodendrocytes attenuates loss of myelinated axons in autoimmune neuroinflammation."
+collection: publications
+permalink: /publication/evonuksciadv2019
+excerpt: ''
+date: November 2019
+venue: 'Science Advances'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/27685467'
+citation: 'Evonuk KS, Doyle RE, Moseley CE, Thornell IM, Adler K, Bingaman AM, Bevensee MO, Weaver CT, Min B, DeSilva TM. (2019) Reduction of AMPA receptor activity on mature oligodendrocytes attenuates loss of myelinated axons in autoimmune neuroinflammation. Accepted for publication in <i>Sci Adv</i>.'
+---
+Glutamate dysregulation is implicated in multiple sclerosis (MS), but whether excitotoxic mechanisms specific to mature oligodendrocytes contribute to myelin degradation and impact axonal injury has not been explored. Current treatment strategies modulate the immune system; however, long-term disability ensues highlighting the need for neuroprotective therapies. Elevated levels of glutamate are detected prior to the appearance of new T2-visible white matter lesions implicating glutamate as an important excitotoxin in patients with MS. We previously reported that myelin-reactive T cells provoke microglia to release glutamate from the system xc- transporter promoting myelin degradation during autoimmune demyelination. Here, we focus on the target for excitotoxic glutamate in mature oligodendrocytes, the AMPA-type glutamate receptor (AMPAR). The majority of glutamate-stimulated calcium influx into oligodendrocyte cell bodies is AMPAR-mediated, and genetic deletion of the GluA4 AMPAR subunit decreased intracellular calcium responses. Inducible deletion of GluA4 on mature oligodendrocytes diminished the clinical symptoms of experimental autoimmune encephalomyelitis (EAE) and histopathological examination of the lumbar spinal cord revealed a reduction in myelin and axonal loss. At the ultrastructural level, loss of myelinated axons was selectively attenuated compared to unmyelinated axons. These data link AMPAR signaling in mature oligodendrocytes to the pathophysiology of myelinated axons and the clinical outcome in EAE, demonstrating the potential benefit of glutamate regulation as a neuroprotective strategy in MS.

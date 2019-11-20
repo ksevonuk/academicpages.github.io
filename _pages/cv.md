@@ -56,7 +56,8 @@ Other Experiences
 |2013-2014 | Brain Awareness Week Planning Committee Member, University of Alabama at Birmingham, Birmingham, AL |
 |2014-2015 | Brain Awareness Week Co-Coordinator, University of Alabama at Birmingham, Birmingham, AL |
 |2016-present | Cleveland Clinic Data on the Table Volunteer |
-|April 2019-November 2019 |  National Multiple Sclerosis Society Tykeson Fellows Conference Planning Committee Member | 
+|4/2019-11/2019 |  National Multiple Sclerosis Society Tykeson Fellows Conference Planning Committee Member | 
+|11/15/2019 | National Multiple Sclerosis Society Tykeson Fellows Conference Myelin Repair Vs. Neuroprotection Session Co-Chair |
 
 
 Professional Memberships
@@ -64,7 +65,7 @@ Professional Memberships
 
 | Date           | Membership                                   |
 | --------       | ------------------------------------------------------- |
-|2009-present | Member, Psi Chi, University of Portland Chapter |
+|2009-present | Member, Psi Chi (University of Portland Chapter) |
 |2012-2016 | Member, Society for Neuroscience |
 |2014-2015 | Member, American Society for Neurochemistry |
 |2015-2016 | Member, Research Civitan Club (Birmingham Chapter) |
@@ -94,6 +95,7 @@ Honors
 |2018 | Cleveland Clinic Neurological Institute Research Day Neurosciences Award for oral presentation |
 |2018 | European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) Travel Award |
 |2018 | Alumni Association Career Development Postdoctoral Fellow Award |
+|2019 | 4th Place Poster Presentation at Cleveland Brain Health Initiative (CBHI) 2019 Annual Retreat at Case Western Reserve University |
 
 
 Publications
