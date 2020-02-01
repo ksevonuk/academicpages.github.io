@@ -14,7 +14,7 @@ redirect_from:
 
 <p align="center"><b>Curriculum Vitae</b></p>
 
-<p align="center">evonuks at ccf.org | https://ksevonuk.github.io</p>
+<p align="center">https://www.ksevonuk.com | evonuks at ccf.org</p>
 
 
 Education
