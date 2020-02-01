@@ -15,7 +15,7 @@ redirect_from:
 <p align="center"><b>Curriculum Vitae</b></p>
 
 <p align="center">https://www.ksevonuk.com | evonuks at ccf.org</p>
-<p align="center><a href=https://ksevonuk.github.io/files/KSE_CV_2-1-2020.pdf"" target="_blank">"Click to download CV as a PDF</a></p>
+<p align="center"><a href="https://ksevonuk.github.io/files/KSE_CV_2-1-2020.pdf" target="_blank">Click to download CV as a PDF</a></p>
 
 
 Education
