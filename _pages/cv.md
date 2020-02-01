@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<h1 class="western" align="center"><b>Kirsten S. Evonuk</b></h1>
+<h1 class="western" align="center"><b>Kirsten Scarlett Evonuk</b></h1>
 
 <p align="center"><b>Curriculum Vitae</b></p>
 
@@ -30,7 +30,12 @@ Education
 
 * **Ph.D. mentor:** Tara M. DeSilva, Ph.D.
 * **Ph.D. dissertation title:** The role of glutamate in immune cell infiltration and excitotoxic mechanisms in autoimmune demyelination
-	
+
+
+Research Description
+======
+My research interest is in understanding the mechanisms underlying neuroinflammation and demyelination in autoimmune neuroinflammatory diseases. One such disease is multiple sclerosis (MS), in which autoreactive immune cells infiltrate the central nervous system (CNS), causing demyelination and neurodegeneration. Current treatments for MS reduce clinical relapses or dampen symptoms by modulating the immune system. However, most of these treatments are not effective for progressive MS, and none are cures for the disease, highlighting the need for studies focusing on neuroprotective mechanisms to directly protect the CNS. One promising target in the search for neuroprotective therapeutic targets is excitotoxicity, defined by excessive stimulation of cells by the excitatory neurotransmitter glutamate. My current projects in the DeSilva laboratory focus on the role of excess glutamate signaling in the pathogenesis of MS, and the normal role of glutamate signaling in the development of myelin. Understanding normal and pathological glutamate signaling in oligodendrocytes will facilitate future research in the neuroprotective potential of glutamate signaling regulation.
+
 
 Positions and Employment
 ======
@@ -57,7 +62,9 @@ Other Experiences
 |2014-2015 | Brain Awareness Week Co-Coordinator, University of Alabama at Birmingham, Birmingham, AL |
 |2016-present | Cleveland Clinic Data on the Table Volunteer |
 |4/2019-11/2019 |  National Multiple Sclerosis Society Tykeson Fellows Conference Planning Committee Member | 
-|11/15/2019 | National Multiple Sclerosis Society Tykeson Fellows Conference Myelin Repair Vs. Neuroprotection Session Co-Chair |
+|11/15/2019 | National Multiple Sclerosis Society Tykeson Fellows Conference "Myelin Repair Vs. Neuroprotection" Session Co-Chair |
+|11/2019-present | Lerner Postdoctoral Association (LPDA) Communications Team Member
+|2/29/2020 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) 2020 Forum “CNS Cellular Networks in MS” Young Investigator Co-Chair
 
 
 Professional Memberships
@@ -92,7 +99,7 @@ Honors
 |2015 | Data Blitz Presentation Award Winner at Comprehensive Neuroscience Center Retreat, University of Alabama at Birmingham |
 |2018 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Educational Travel Grant |
 |2018 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Best Young Investigator Oral Presentation (2nd place) |
-|2018 | Cleveland Clinic Neurological Institute Research Day Neurosciences Award for oral presentation |
+|2018 | Cleveland Clinic Neurological Institute Research Day Neurosciences Award for Oral Presentation |
 |2018 | European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) Travel Award |
 |2018 | Alumni Association Career Development Postdoctoral Fellow Award |
 |2019 | 4th Place Poster Presentation at Cleveland Brain Health Initiative (CBHI) 2019 Annual Retreat at Case Western Reserve University |
