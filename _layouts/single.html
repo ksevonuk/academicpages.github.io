@@ -40,9 +40,9 @@ layout: default
           <p> {{ page.type }}, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}{% if post.date2 %}-{{ page.date2 | default: "1900-01-01" | date: "%B %Y" }}{% endif %}</p>
 		  <p> Current status: {{ page.current }} </p>
 		{% elsif page.collection == 'outreach' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}{% if post.date2 %}-{{ post.date2 | default: "1900-01-01" | date: "%B %Y" }}{% endif %} </p>
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}{% if post.date2 %}-{{ post.date2 | default: "1900-01-01" | date: "%B %Y" }}{% endif %} </p>
 		{% elsif page.collection == 'service' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}{% if post.date2 %}-{{ post.date2 | default: "1900-01-01" | date: "%B %Y" }}{% endif %} </p>
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}{% if post.date2 %}-{{ post.date2 | default: "1900-01-01" | date: "%B %Y" }}{% endif %} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B %Y" }}. </p>
         {% elsif page.date %}
