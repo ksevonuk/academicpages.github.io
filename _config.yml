@@ -184,10 +184,19 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
   posters:
+    output: true
+    permalink: /:collection/:path/
+  mentoring:
+    output: true
+    permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
+  service:
     output: true
     permalink: /:collection/:path/
 
@@ -239,23 +248,39 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentatons
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
       share: true
-  # _posters
+  # _mentoring
   - scope:
       path: ""
-      type: posters
+      type: mentoring
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
-
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass

@@ -1,10 +1,11 @@
 ---
 title: "Determining Immune System Suppression versus CNS Protection for Pharmacological Interventions in Autoimmune Demyelination."
 collection: publications
-permalink: /publication/evonukjvisexp2016
+permalink: /publications/evonukjvisexp2016
 excerpt: ''
 date: September 2016
 venue: 'Journal of Visualized Experiments'
+type: Peer-Reviewed Journal Article
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/27685467'
 citation: 'Evonuk KS, Moseley CE, Doyle RE, Weaver CT, DeSilva TM (2016) Determining Immune System Suppression versus CNS Protection for Pharmacological Interventions in Autoimmune Demyelination. <i>J Vis Exp</i> 115. <a href="https://doi.org/10.3791/54348" target="_blank">https://doi.org/10.3791/54348</a>'
 ---

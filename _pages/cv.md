@@ -11,141 +11,157 @@ redirect_from:
 
 
 <h1 class="western" align="center"><b>Kirsten Scarlett Evonuk</b></h1>
+<center><b>Postdoctoral Fellow, Cleveland Clinic Lerner Research Institute</b>
+<br><a href="https://www.ksevonuk.com">https://www.ksevonuk.com</a>
+<br>evonuks at ccf.org | ksevonuk at gmail.com
+<br><a href="https://ksevonuk.github.io/files/KSE_CV_2-8-2020_site" target="_blank">Click to download CV as a PDF</a></center>
+<p><b>Institutional Address</b>
+<br>Cleveland Clinic Lerner Research Institute
+<br>9500 Euclid Ave
+<br>NC30
+<br>Cleveland, OH 44195</p>
 
-<p align="center"><b>Curriculum Vitae</b></p>
-
-<p align="center">https://www.ksevonuk.com | evonuks at ccf.org</p>
-<p align="center"><a href="https://ksevonuk.github.io/files/KSE_CV_2-1-2020.pdf" target="_blank">Click to download CV as a PDF</a></p>
+Dedicated scientist with 8+ years of experience conducting neuroimmunological research on mechanisms underlying autoimmune neuroinflammatory disease. Successful record of grant funding with 4 first-authored, peer-reviewed publications demonstrating dedication to research in neuroinflammation and multiple sclerosis. Expertise in molecular biology techniques, immunohistochemistry and imaging, utilization of <i>in vivo</i> models, <i>ex vivo</i> and <i>in vitro</i> calcium imaging, and rodent behavioral analyses. Teacher and mentor to students of all levels, with ability to teach laboratory techniques and explain complicated subjects in an understandable way. Seeking a career as a tenure track professor and primary investigator to study pathophysiology of multiple sclerosis.
 
 
 Education
 ======
+<hr>
+  * **PhD in Neurobiology**
+      * Department of Neurobiology, University of Alabama at Birmingham, Birmingham, AL
+      * **Date:** 03/2016
+      * **Dissertation title:** “The role of glutamate in immune cell infiltration and excitotoxic mechanisms in autoimmune demyelination”
+      * **PhD mentor:** Tara M. DeSilva, PhD
+	  
 
-| Institution          | Degree                                               | Date Received | Field of Study |
-| --------       | ---------------------------------------------------------- | --------------------- | ------ |
-| University of Portland | B.A. (summa cum laude) | May 2011 | Psychology |
-| University of Alabama at Birmingham | Ph.D. | March 25, 2016 | Neuroscience |
-
-* **B.A. mentor:** Jeffrey Smith, Ph.D.
-* **B.A. thesis title:** Effects of Social and Enriched Environments on Recovery from Medial Frontal Cortex Contusion in a Rat Model
-
-* **Ph.D. mentor:** Tara M. DeSilva, Ph.D.
-* **Ph.D. dissertation title:** The role of glutamate in immune cell infiltration and excitotoxic mechanisms in autoimmune demyelination
+  * **BA in Psychology**
+      * Department of Psychology, University of Portland, Portland, OR
+      * **Date:** 05/2011
+	  * Graduated summa cum laude
+	  * **Minor:** Biology
+      * **Thesis title:** “Effects of Social and Enriched Environments on Recovery from Medial Frontal Cortex Contusion in a Rat Model”
+      * **PhD mentor:** Jeffrey Smith, PhD
 
 
-Research Description
+Professional Appointments
 ======
-My research interest is in understanding the mechanisms underlying neuroinflammation and demyelination in autoimmune neuroinflammatory diseases. One such disease is multiple sclerosis (MS), in which autoreactive immune cells infiltrate the central nervous system (CNS), causing demyelination and neurodegeneration. Current treatments for MS reduce clinical relapses or dampen symptoms by modulating the immune system. However, most of these treatments are not effective for progressive MS, and none are cures for the disease, highlighting the need for studies focusing on neuroprotective mechanisms to directly protect the CNS. One promising target in the search for neuroprotective therapeutic targets is excitotoxicity, defined by excessive stimulation of cells by the excitatory neurotransmitter glutamate. My current projects in the DeSilva laboratory focus on the role of excess glutamate signaling in the pathogenesis of MS, and the normal role of glutamate signaling in the development of myelin. Understanding normal and pathological glutamate signaling in oligodendrocytes will facilitate future research in the neuroprotective potential of glutamate signaling regulation.
+<hr>
+  * **Postdoctoral Fellow**
+      * Department of Neurosciences, Cleveland Clinic Lerner Research Institute, Cleveland, OH
+	  * **Dates:** 2016-present
+      * **Advisor:** Tara M. DeSilva, PhD
+	  * Demonstrated that deletion of a subunit of the AMPA-type glutamate receptor on mature oligodendrocytes confers protection to myelin and axons in an animal model of multiple sclerosis. This work resulted in a peer-reviewed publication in AAAS Science Advances. Postdoctoral work was funded through a 1-year Cole Eye Institute Vision Science Training Program T32 and a 3-year NMSS Postdoctoral Fellowship. Mentored 2 undergraduate students and 1 high school student in the DeSilva laboratory.
 
-
-Positions and Employment
-======
-
-| Date           | Position                                                           | Location |
-| --------       | ---------------------------------------------------------- | --------------------- |
-|2009-2010       | Undergraduate Research Assistant with Dr. Jeffrey Smith    | University of Portland, Portland, OR |
-|2010-2010       | Undergraduate Research Assistant with Dr. Linda Overstreet-Wadiche, Summer Program in Neuroscience Research Experiences for Undergraduates (REU) program | University of Alabama at Birmingham, Birmingham, AL |
-|2012-2016       | Graduate Student Trainee with Dr. Tara DeSilva | University of Alabama at Birmingham, Birmingham, AL |
-|2016-present    | Postdoctoral Fellow with Dr. Tara DeSilva | Cleveland Clinic, Cleveland, OH |
-
-
-Other Experiences
-======
-
-| Date           | Experience                                              |
-| --------       | ------------------------------------------------------- |
-|2009-2011 | Student Advisory Council Member, University of Portland |
-|8/3/2012 | Center for Community Outreach Development Summer Science Programs Poster Judge, University of Alabama at Birmingham, Birmingham, AL |
-|8/2012-10/2012 and 8/2014-10/2014 | Art of Giving Charity Art Auction Volunteer, University of Alabama at Birmingham, Birmingham, AL |
-|3/9/2013 and 3/1/2014 | Central Alabama Regional Science and Engineering Fair Poster Judge, University of Alabama at Birmingham, Birmingham, AL |
-|11/21/2013-4/19/2016 | Volunteer at Sci Talks: Science Talks for the Community, University of Alabama at Birmingham, Birmingham, AL |
-|2013-2014 | Brain Awareness Week Planning Committee Member, University of Alabama at Birmingham, Birmingham, AL |
-|2014-2015 | Brain Awareness Week Co-Coordinator, University of Alabama at Birmingham, Birmingham, AL |
-|2016-present | Cleveland Clinic Data on the Table Volunteer |
-|4/2019-11/2019 |  National Multiple Sclerosis Society Tykeson Fellows Conference Planning Committee Member | 
-|11/15/2019 | National Multiple Sclerosis Society Tykeson Fellows Conference "Myelin Repair Vs. Neuroprotection" Session Co-Chair |
-|11/2019-present | Lerner Postdoctoral Association (LPDA) Communications Team Member
-|2/29/2020 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) 2020 Forum “CNS Cellular Networks in MS” Young Investigator Co-Chair
-
-
-Professional Memberships
-======
-
-| Date           | Membership                                   |
-| --------       | ------------------------------------------------------- |
-|2009-present | Member, Psi Chi (University of Portland Chapter) |
-|2012-2016 | Member, Society for Neuroscience |
-|2014-2015 | Member, American Society for Neurochemistry |
-|2015-2016 | Member, Research Civitan Club (Birmingham Chapter) |
-
-
-Honors
-======
-
-| Date           | Honor/Award                                                                    |
-| --------       | ------------------------------------------------------------------------------ |
-|2007 | Foodland Scholarship, Foodland Super Market, Ltd. |
-|2007-2009 | Academic Competitiveness Grant, U.S. Department of Education |
-|2007-2011 | President’s Scholarship, University of Portland |
-|2007-2011 | Presidential Scholarship, Realtors’ Association of Maui |
-|2007-2011 | M. M. Scott Scholarship, Gertrude S. Straub Trust Estate |
-|2009-2011 | Father Lloyd Teske C.S.C. Scholarship, University of Portland |
-|2010 | Psi Chi WPA Travel Grant, Psi Chi International Honor Society in Psychology |
-|2011 | Sr. Marian Dolores Robinson Award for Achievement in Psychology, University of Portland |
-|2011 | Graduated Summa Cum Laude with Bachelor of Arts, University of Portland |
-|2013 | 1st Place Data Blitz Presentation at Comprehensive Neuroscience Center Retreat, University of Alabama at Birmingham |
-|2014 | 2nd Place Poster Presentation at Comprehensive Neuroscience Center Neuroscience Research Day, University of Alabama at Birmingham |
-|2014 | University of Alabama at Birmingham Graduate Student Association Travel Grant |
-|2014 | American Society for Neurochemistry Travel Fellowship |
-|2015 | Data Blitz Presentation Award Winner at Comprehensive Neuroscience Center Retreat, University of Alabama at Birmingham |
-|2018 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Educational Travel Grant |
-|2018 | Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS) Best Young Investigator Oral Presentation (2nd place) |
-|2018 | Cleveland Clinic Neurological Institute Research Day Neurosciences Award for Oral Presentation |
-|2018 | European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) Travel Award |
-|2018 | Alumni Association Career Development Postdoctoral Fellow Award |
-|2019 | 4th Place Poster Presentation at Cleveland Brain Health Initiative (CBHI) 2019 Annual Retreat at Case Western Reserve University |
+  * **Graduate Research Trainee**
+      * Department of Neurobiology, University of Alabama at Birmingham, Birmingham, AL
+	  * **Dates:** 2012-2016
+      * **Advisor:** Tara M. DeSilva, PhD
+	  * Demonstrated amelioration of an animal model of multiple sclerosis by blocking the system xc- glutamate/cystine transporter using pharmacological and genetic methods. Published 3 peer-reviewed, first-author papers resulting from graduate research efforts. Graduate work was funded through a 2-year Immunologic Diseases and Basic Immunology T32. Mentored 4 summer research undergraduate students in the DeSilva laboratory for 10-week laboratory experiences.
 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<hr>
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks %}
+<hr>
+   * **4th Place Poster Presentation Award**, Cleveland Brain Health Initiative (CBHI) 2019 Annual Retreat, Case Western Reserve University, Cleveland, OH, 2019
+   * **Alumni Association Career Development Postdoctoral Fellow Award**, Cleveland Clinic, Cleveland, OH, 2018
+   * **Travel Award**, European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS), 2018
+   * **Neurosciences Oral Presentation Award**, Cleveland Clinic Neurological Institute Research Day, Cleveland Clinic, OH, 2018
+   * **Best Young Investigator Oral Presentation (2nd place)**, Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS), 2018
+   * **Educational Travel Grant**, Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS), 2018
+   * **Data Blitz Presentation Award**, Comprehensive Neuroscience Center Retreat, University of Alabama at Birmingham, Birmingham, AL, 2015
+   * **Travel Fellowship**, American Society for Neurochemistry, 2014
+   * **Travel Grant**, University of Alabama at Birmingham Graduate Student Association, 2014
+   * **2nd Place Poster Presentation Award**, Comprehensive Neuroscience Center Neuroscience Research Day, University of Alabama at Birmingham, Birmingham, AL, 2014
+   * **1st Place Data Blitz Presentation**, Comprehensive Neuroscience Center Retreat, University of Alabama at Birmingham, Birmingham, AL, 2013
+   
+   
+Grants and Fellowships
+======
+<hr>
+  * “Selective deletion of AMPA-type glutamate receptors on oligodendrocytes is neuroprotective in autoimmune demyelination.”
+      * NMSS Postdoctoral Fellowship, FG-1807-31882
+	  * **Dates:** 2019-2022
+      * $188,067
+	  * **Role:** Principal Investigator
+  * Cole Eye Institute Vision Science Training Program
+      * NIH/NEI T32, T32 EY24236-2
+	  * Principal Investigators: Bela Anand-Apte and Joe Gilbert Hollyfield
+	  * **Dates:** 2017-2018
+      * $43,692
+	  * **Role:** Trainee
+  * Immunologic Diseases and Basic Immunology T32
+      * NIH/NIAID T32, T32 AI7051-38 and T32 AI7051-37
+	  * Principal Investigator: Harry William Schroeder
+	  * **Dates:** 2014-2016
+      * $40,812
+	  * **Role:** Trainee
+
+   
+Presentations
+======
+<hr>
+  <ul>{% for post in site.presentations reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  
-Posters
+
+Teaching Experience
 ======
-  <ul>{% for post in site.posters %}
-    {% include archive-single-talk-cv.html %}
+<hr>
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-teaching-cv.html %}
+  {% endfor %}</ul>
+
+
+Mentoring Experience
+======
+<hr>
+  <ul>{% for post in site.mentoring reversed %}
+    {% include archive-single-mentoring-cv.html %}
   {% endfor %}</ul>
   
   
-Completed Support
+Outreach and Service
 ======
-
-| Grant Name | Role | Grant Number | PI | Dates |
-| --------   | ---- | ------------ | ----| ---- |
-| Immunologic Diseases and Basic Immunology T32 | Trainee | NIH/NIAID 5 T32 AI007051-37 and  NIH/NIAID 5 T32 AI007051-38 | Harry Schroeder | 07/01/2014-06/30/2015 and 07/01/2015-06/30/2016 |
-| Cole Eye Institute Vision Science Training Program | Trainee | NIH/NEI 5 T32 EY 24236-2 | Bela Anand-Apte and Joe Gilbert Hollyfield | 03/30/2017-03/31/2018 |
-
-
-Ongoing Support
-======
-
-| Grant Name | Role | Grant Number | PI | Dates |
-| --------   | ---- | ------------ | ----| ---- |
-| NMSS Postdoctoral Fellowship | PI | FG-1807-31882 | Kirsten S. Evonuk | 7/1/2019-6/30/2022 |
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+<hr>
+  <ul>{% for post in site.outreach reversed %}
+    {% include archive-single-outreach-cv.html %}
   {% endfor %}</ul>
+
+
+Professional Service
+======
+<hr>
+  <ul>{% for post in site.service reversed %}
+    {% include archive-single-outreach-cv.html %}
+  {% endfor %}</ul>
+  
+
+Professional Development
+======
+<hr>
+  * **ExCyte Flow Cytometry Training**
+      * Cleveland Clinic, Cleveland, OH
+	  * **Date:** 12/2016
+  * **Advanced Course in Immunology**
+      * The American Association of Immunologists
+	  * **Date:** 08/2015
+  * **Teaching and Learning Course**
+      * Center for the Integration of Research, Teaching and Learning at University of Alabama at Birmingham, Birmingham, AL
+	  * **Date:** Summer 2015
+	  
+	  
+Professional Societies
+======
+<hr>
+  * American Society for Neurochemistry, 2014-present
+  * Society for Neroscience, 2012-present
+  * Psi Chi, The International Honor Society in Psychology, 2009-present

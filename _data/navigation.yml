@@ -1,22 +1,25 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/   
-
-  - title: "Posters"
-    url: /posters/    
+  - title: "Presentations"
+    url: /presentations/   
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Updates"
-    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Mentoring"
+    url: /mentoring/    
+    
+  - title: "Outreach"
+    url: /outreach/    
+    
+  - title: "Service"
+    url: /service/    
     
   - title: "Contact"
     url: /contact/

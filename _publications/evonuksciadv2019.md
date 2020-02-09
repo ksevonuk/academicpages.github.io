@@ -1,10 +1,11 @@
 ---
 title: "Reduction of AMPA Receptor Activity on Mature Oligodendrocytes Attenuates Loss of Myelinated Axons in Autoimmune Neuroinflammation."
 collection: publications
-permalink: /publication/evonuksciadv2019
+permalink: /publications/evonuksciadv2020
 excerpt: ''
 date: January 2020
 venue: 'Science Advances'
+type: Peer-Reviewed Journal Article
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/31934627'
 citation: 'Evonuk KS, Doyle RE, Moseley CE, Thornell IM, Adler K, Bingaman AM, Bevensee MO, Weaver CT, Min B, DeSilva TM. (2020) Reduction of AMPA receptor activity on mature oligodendrocytes attenuates loss of myelinated axons in autoimmune neuroinflammation. <i>Sci Adv</i> 6(2): eaax5936. <a href="https://doi.org/10.1126/sciadv.aax5936" target="_blank">https://doi.org/10.1126/sciadv.aax5936</a>'
 ---
