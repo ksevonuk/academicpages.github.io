@@ -5,5 +5,5 @@ type: "Post-baccalaureate Readiness Instruction for bioMedical Education (PRIME)
 permalink: /mentoring/amandabingaman
 date: June 2019
 date2: Present
-current: Post-baccalaureate student in the Case Western Reserve University PRIME certificate program
+current: Master's student at Case Western Reserve University
 ---
