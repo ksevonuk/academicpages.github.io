@@ -14,7 +14,7 @@ redirect_from:
 <center><b>Postdoctoral Fellow, Cleveland Clinic Lerner Research Institute</b>
 <br><a href="https://www.ksevonuk.com">https://www.ksevonuk.com</a>
 <br>evonuks at ccf.org | ksevonuk at gmail.com
-<br><a href="https://ksevonuk.github.io/files/KSE_CV_2-8-2020_site.pdf" target="_blank">Click to download CV as a PDF</a></center>
+<br><a href="https://ksevonuk.github.io/files/KSE_CV_2-8-2020.pdf" target="_blank">Click to download CV as a PDF</a></center>
 <p><b>Institutional Address</b>
 <br>Cleveland Clinic Lerner Research Institute
 <br>9500 Euclid Ave
