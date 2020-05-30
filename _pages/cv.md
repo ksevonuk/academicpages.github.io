@@ -21,7 +21,7 @@ redirect_from:
 <br>NC30
 <br>Cleveland, OH 44195</p>
 
-Dedicated scientist with 8+ years of experience conducting neuroimmunological research on mechanisms underlying autoimmune neuroinflammatory disease. Successful record of grant funding with 4 first-authored, peer-reviewed publications demonstrating dedication to research in neuroinflammation and multiple sclerosis. Expertise in molecular biology techniques, immunohistochemistry and imaging, utilization of <i>in vivo</i> models, <i>ex vivo</i> and <i>in vitro</i> calcium imaging, and rodent behavioral analyses. Teacher and mentor to students of all levels, with ability to teach laboratory techniques and explain complicated subjects in an understandable way. Seeking a career as a tenure track professor and primary investigator to study pathophysiology of multiple sclerosis.
+Dedicated scientist with 8+ years of experience conducting neuroimmunological research on mechanisms underlying autoimmune neuroinflammatory disease. Successful record of grant funding with 4 first-authored, peer-reviewed publications demonstrating dedication to research in neuroinflammation and multiple sclerosis. Expertise in molecular biology techniques, immunohistochemistry and imaging, utilization of <i>in vivo</i> models, <i>ex vivo</i> and <i>in vitro</i> calcium imaging, and rodent behavioral analyses. Teacher and mentor to students of all levels, with ability to teach laboratory techniques and explain complicated subjects in an understandable way.
 
 
 Education
