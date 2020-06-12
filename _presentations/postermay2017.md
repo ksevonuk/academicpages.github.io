@@ -9,7 +9,7 @@ location: "Cleveland, OH"
 award:
 ---
 
-This talk was given as part of the Cleveland Clinic’s annual Neurological Institute Research Day, which provides clinical and science trainees an opportunity to present their projects to the Cleveland Clinic neuroscience community.
+This poster was presented as part of the Cleveland Clinic’s annual Neurological Institute Research Day, which provides clinical and science trainees an opportunity to present their projects to the Cleveland Clinic neuroscience community.
 
 Authors:
 

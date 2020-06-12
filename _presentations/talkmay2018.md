@@ -9,7 +9,7 @@ location: "Cleveland, OH"
 award: "Neurosciences Oral Presentation Award"
 ---
 
-This talk was given as part of the Cleveland Clinic's annual Neurological Institute Research Day, which provides trainees an opportunity to present their projects to the Cleveland Clinic neuroscience community. For this talk, I received The Neurosciences Award.
+This talk was given as part of the Cleveland Clinic's annual Neurological Institute Research Day, which provides clinical and science trainees an opportunity to present their projects to the Cleveland Clinic neuroscience community. For this talk, I received The Neurosciences Award.
 
 Abstract:
 
