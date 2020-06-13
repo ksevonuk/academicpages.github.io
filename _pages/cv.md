@@ -14,14 +14,14 @@ redirect_from:
 <center><b>Postdoctoral Fellow, Cleveland Clinic Lerner Research Institute</b>
 <br><a href="https://www.ksevonuk.com">https://www.ksevonuk.com</a>
 <br>evonuks at ccf.org | ksevonuk at gmail.com
-<br><a href="https://ksevonuk.github.io/files/KSE_CV_2-8-2020.pdf" target="_blank">Click to download CV as a PDF</a></center>
+<br><a href="https://ksevonuk.github.io/files/KSE_CV.pdf" target="_blank">Click to download CV as a PDF</a></center>
 <p><b>Institutional Address</b>
 <br>Cleveland Clinic Lerner Research Institute
 <br>9500 Euclid Ave
 <br>NC30
 <br>Cleveland, OH 44195</p>
 
-Dedicated scientist with 8+ years of experience conducting neuroimmunological research on mechanisms underlying autoimmune neuroinflammatory disease. Successful record of grant funding with 4 first-authored, peer-reviewed publications demonstrating dedication to research in neuroinflammation and multiple sclerosis. Expertise in molecular biology techniques, immunohistochemistry and imaging, utilization of <i>in vivo</i> models, <i>ex vivo</i> and <i>in vitro</i> calcium imaging, and rodent behavioral analyses. Teacher and mentor to students of all levels, with ability to teach laboratory techniques and explain complicated subjects in an understandable way.
+Dedicated scientist with 9+ years of experience conducting neuroimmunological research on mechanisms underlying autoimmune neuroinflammatory disease. Successful record of grant funding with 4 first-authored, peer-reviewed publications demonstrating dedication to research in neuroinflammation and multiple sclerosis. Expertise in molecular biology techniques, immunohistochemistry and imaging, utilization of <i>in vivo</i> models, <i>ex vivo</i> and <i>in vitro</i> calcium imaging, and rodent behavioral analyses. Teacher and mentor to students of all levels, with ability to teach laboratory techniques and explain complicated subjects in an understandable way.
 
 
 Education
